@@ -47,7 +47,7 @@ A simple and responsive **To-Do List Application** built with **Vanilla HTML**, 
    npm install
 
 3. **Run the Tailwind CLI build process**
-   npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+   npx @tailwindcss/cli -i styles/style.css -o styles/output.css --watch
 
 4. **Run the backend server**
    node server.js
