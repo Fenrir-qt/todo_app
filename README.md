@@ -1,6 +1,6 @@
 # 📝 Tadaa! A to-do app
 
-A simple and responsive **To-Do List Application** built with **Vanilla HTML**, **Node.js**, and **Tailwind CSS**, using **REST API** and the **Fetch API** for CRUD operations.
+A simple and responsive **To-Do List Application** built with **HTML**, **Node.js**, and **Tailwind CSS**, using **REST API** and the **Fetch API** for CRUD operations.
 
 ---
 
